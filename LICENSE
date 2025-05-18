@@ -1,0 +1,40 @@
+MIT License
+
+Copyright (c) 2025 Dennis Ayotte / The Captain Dumbass™
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights to
+use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of
+the Software, and to permit persons to whom the Software is furnished to do so,
+subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED,
+INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR
+PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE
+FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE,
+ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+---
+
+⚠️ Disclaimer  
+This project is intended for educational and personal use only.  
+
+1. YouTube Compliance: It is the user's responsibility to ensure their use complies with:
+   - YouTube's Terms of Service: https://www.youtube.com/t/terms
+   - YouTube Community Guidelines: https://www.youtube.com/howyoutubeworks/policies/community-guidelines/
+   - YouTube API Terms of Service: https://developers.google.com/youtube/terms/api-services-terms-of-service
+
+2. API Quotas & Costs: Users must be aware of YouTube API quota limitations and any potential costs associated with exceeding these limits.
+   - YouTube API Quota information: https://developers.google.com/youtube/v3/getting-started#quota
+
+3. Privacy & Data: This tool requires OAuth access to your YouTube account. Users should understand the permissions they are granting.
+   - Google OAuth information: https://developers.google.com/identity/protocols/oauth2
+
+4. Trademark Notice: "The Captain Dumbass™" is a trademark owned by Dennis Ayotte. This trademark may not be used without permission in derivative works or in any way that suggests endorsement.
+   - Official Trademark & Brand Protection Notice: https://forum.thecaptaindumbass.com/t/trademark-brand-protection-notice/87
+
+5. No Warranty: The authors of this project take no responsibility for misuse, abuse, API rate limiting, account restrictions, or any other penalties resulting from improper implementation.
