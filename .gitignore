@@ -17,3 +17,6 @@ Thumbs.db
 # Editor backups
 *.bak
 *.backup
+
+# Project specific
+.windsurf/
